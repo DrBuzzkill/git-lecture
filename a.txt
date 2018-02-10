@@ -1,4 +1,7 @@
 my text changed in a different way
+
 another line
+
 another line
+
 more lines
