@@ -1,4 +1,7 @@
-my text
+my text changed
+
 another line
+
 another line
+
 more lines
